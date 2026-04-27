@@ -7,6 +7,7 @@ import Mypage from './pages/Mypage'
 import About from './pages/About'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Resume from './pages/Resume'
+
 import Portfo from './pages/Portfo'
 
 function App() {
