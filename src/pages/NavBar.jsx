@@ -44,7 +44,7 @@ export default function NavBar() {
           <Link to='/' onClick={() => setIsOpen(false)}>home</Link>
           <Link to='/about' onClick={() => setIsOpen(false)}>about</Link>
           <Link to='/resume' onClick={() => setIsOpen(false)}>resume</Link>
-          <Link to='/portfolio' onClick={() => setIsOpen(false)}>portfolio</Link>
+          <Link to='/Portfo' onClick={() => setIsOpen(false)}>portfolio</Link>
 
           <div className='flex items-center gap-3 pt-3 border-t border-gray-600'>
             <Smartphone />

@@ -98,7 +98,7 @@ export default function Resume() {
     
   return (
     <>
-        <div  className='bg-black bg-[url(assets/print.jpg)] h-[90vh] bg-cover bg-no-repeat'>
+        <div  className='bg-black bg-[url(assets/print.jpg)] border border-white  h-full md:w-[10] bg-cover bg-no-repeat'>
             <div style={{fontFamily:'Bricolage Grotesque Variable'}} className='bg-[#14141496] flex  gap-10 text-[#d6d6d6] h-[90vh] p-7'>
                 <div className='w-[40%] flex flex-col gap-8'>
                     <h1 className='uppercase underline underline-offset-8 decoration-[#5076a7] font-extrabold mb-3 text-[20px]'>software skills</h1>
